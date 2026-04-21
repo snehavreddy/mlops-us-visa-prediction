@@ -209,3 +209,7 @@ visa/
 venv/
 __pycache__/
 *.pyc
+artifact/*
+notebook/catboost_info/*
+# env variables
+.env
